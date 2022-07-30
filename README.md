@@ -7,3 +7,5 @@ The dataset was collected from the internet.
   2. Cleaned and manipulated data for further clarity with pandas.
   3. Visualisation of data using matplotlib and seaborn.
   4. Derived specific information from the data summary & visualization to decide the outcomes.
+
+Required kills: python, jupyter notebook, pandas, seaborn.
